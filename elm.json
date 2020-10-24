@@ -1,0 +1,18 @@
+{
+  "type": "package",
+  "name": "bitsoflogic/elm-radixint",
+  "summary": "Convert to and from base 10 and any base Int",
+  "license": "BSD-3-Clause",
+  "version": "1.0.0",
+  "exposed-modules": [
+    "RadixInt"
+  ],
+  "elm-version": "0.19.1 <= v < 0.20.0",
+  "source-directories": [
+    "src"
+  ],
+  "dependencies": {
+    "elm/core": "1.0.5 <= v < 2.0.0"
+  },
+  "test-dependencies": {}
+}
